@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Muller';
+    font-weight: 700;
+    src: url("./Muller/MullerBold.woff") format("woff"),
+    url("./Muller/MullerBold.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: 'Russo One';
+    font-weight: 400;
+    src: url('./RussoOne/RussoOne-Regular.woff2') format('woff2'),
+    url('./RussoOne/RussoOne-Regular.woff') format('woff');
+    font-style: normal;
+}

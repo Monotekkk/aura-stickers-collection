@@ -1,0 +1,23 @@
+@import url(./blocks/body/body.css);
+/*header*/
+@import url(./blocks/header/header.css);
+@import url(blocks/header/__icon/header__icon.css);
+@import url(./blocks/menu/menu.css);
+@import url(blocks/menu/__item/menu__item.css);
+@import url(blocks/menu/__button/menu__button.css);
+/*hero*/
+@import url(./blocks/hero/hero.css);
+@import url(blocks/hero/__title/hero__title.css);
+@import url(blocks/hero/__container/hero__container.css);
+@import url(blocks/hero/__img/hero__img.css);
+@import url(blocks/hero/__button/hero__button.css);
+/*auction*/
+@import url(blocks/auction/auction.css);
+@import url(blocks/auction/__my_profile/auction__my_profile.css);
+@import url(blocks/auction/__my_profile/__titleAndStatus/auction__my_profile__titleAndStatus.css);
+@import url(blocks/auction/__my_profile/__status/auction__my_profile__status.css);
+@import url(blocks/auction/__my_profile/__title/auction__my_profile__title.css);
+/*Контейнер*/
+@import url(./blocks/container/container.css);
+/*Шрифт*/
+@import url(./fonts/fonts.css);

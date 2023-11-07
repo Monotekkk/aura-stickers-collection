@@ -1,0 +1,18 @@
+.hero__button {
+    margin-top: 36px;
+    margin-right: 32px;
+    padding: 25px 54px;
+    background-color: #46F4DB;
+    border-radius: 40px;
+    border: #46F4DB 5px solid;
+    color: #000000;
+    font-family: Muller, sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+}
+.hero__button:hover{
+    color: #ffffff;
+    border: #46F4DB 5px solid;
+    background-color: #000000;
+    transition: background-color .5s, color .5s;
+}
