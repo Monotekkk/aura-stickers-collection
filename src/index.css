@@ -17,6 +17,20 @@
 @import url(blocks/auction/__my_profile/__titleAndStatus/auction__my_profile__titleAndStatus.css);
 @import url(blocks/auction/__my_profile/__status/auction__my_profile__status.css);
 @import url(blocks/auction/__my_profile/__title/auction__my_profile__title.css);
+@import url(blocks/auction/__my_profile/__avatar/auction__my__profile__avatar.css);
+@import url(blocks/auction/__left/auction__left.css);
+@import url(blocks/auction/__right/auction__right.css);
+@import url(blocks/auction/__profile/__info/auctiom__profile__info.css);
+@import url(blocks/auction/__profile/auction___profile.css);
+@import url(blocks/auction/__profile/__name/profile__name.css);
+@import url(blocks/auction/__profile/__title/profile__title.css);
+@import url(blocks/auction/__widget/auction__widget.css);
+/*widget*/
+@import url(blocks/widget/widget.css);
+@import url(blocks/widget/_light/widget_light.css);
+@import url(blocks/widget/__title/widget__title.css);
+@import url(blocks/widget/__text/widget__text.css);
+@import url(blocks/widget/__subtext/widget__subtext.css);
 /*Контейнер*/
 @import url(./blocks/container/container.css);
 /*Шрифт*/

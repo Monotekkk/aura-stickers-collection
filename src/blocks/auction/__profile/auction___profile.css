@@ -1,0 +1,10 @@
+.auction___profile {
+    display: flex;
+    gap: 6px;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: rgba(237, 237, 242, 1);
+    width: max-content;
+    padding: 11px 16px;
+    border-radius: 23px;
+}

@@ -1,0 +1,4 @@
+.auction__widget {
+    display: flex;
+    gap: 32px;
+}
